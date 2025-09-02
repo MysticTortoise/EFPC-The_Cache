@@ -13,6 +13,7 @@ Known issues:
 
 * The alt route doesn't have most of it's dialogue. I'm saving that for a friend to write.
 * Some dialogue may play out of order on the alt route. This will be corrected.
+* The "Mission Failed" text for loud doesn't exist. Loud may or may not be added. Not sure.
 * More will be added. Check here before you DM me about an issue. PLEASE.
 
 I prefer to work on my own and with close friends. Don't ask to help unless I explicitly ask you for help. Thanks!
